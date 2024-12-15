@@ -37,7 +37,7 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-Completed with HMTL & CSS.
+A simple tribute page to a video game character. Completed with HMTL & CSS.
 
 <!-- CONTACT -->
 
