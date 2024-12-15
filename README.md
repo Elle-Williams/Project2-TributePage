@@ -45,7 +45,7 @@ A simple tribute page to a video game character. Completed with HMTL & CSS.
 
 Elle Williams - ellew814@gmail.com
 
-Project Link: [https://github.com/Elle-Williams/Project---SurveyForm](https://github.com/Elle-Williams/Project2-TributePage)
+Project Link: [https://github.com/Elle-Williams/Project2-TributePage](https://github.com/Elle-Williams/Project2-TributePage)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
