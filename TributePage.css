@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap");
+
+* {
+  font-family: Orbitron, sans-serif;
+  color: white;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  background-image: url("thessia.png");
+}
+
+main {
+  
+  background: rgba(255, 255, 255, 0.2);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  width: 85%;
+  border-radius: 6px;
+  margin-top: 20px;
+}
+
+#title {
+  padding: 35px;
+  font-size: 48px;
+}
+
+img {
+    display: block;
+}
+
+#image {
+  max-width: 85%;
+  height: auto;
+  border-radius: 6px;
+  margin: auto;
+  border: 2px solid white;
+  justify-content: center;
+}
+
+#img-caption {
+  padding: 5px;
+  font-size: 16px;
+}
+
+#tribute-info {
+  padding: 25px;
+  font-size: 18px;
+}
+
+#tribute-link {
+    margin-bottom: 15px;
+}
