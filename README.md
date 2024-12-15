@@ -24,7 +24,7 @@
   <a href="https://github.com/Elle-Williams/Project2-TributePage">
   </a>
 
-<h3 align="center">Video Games Survey</h3>
+<h3 align="center">Tribute Page</h3>
 
   <p align="center">
 
